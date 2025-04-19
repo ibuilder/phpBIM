@@ -87,7 +87,7 @@ phpBIM
 ## Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/ibuilder/phpBIM.git)
    cd php-bim-viewer-app
    ```
 
